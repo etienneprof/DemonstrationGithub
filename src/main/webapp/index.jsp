@@ -9,5 +9,8 @@
 <body>
 	<h1>Demonstration Github</h1>
 	<p>Felicitations, le projet fonctionne !</p>
+	
+	<h2>Une section</h2>
+	<p>Du contenu supplementaire</p>
 </body>
 </html>
