@@ -11,5 +11,7 @@
 	<p>Felicitations, le projet fonctionne !</p>
 	
 	<a href="#">Un lien vers quelque part</a>
+
+	<p>Du contenu apres le lien</p>
 </body>
 </html>
