@@ -8,6 +8,7 @@
 </head>
 <body>
 	<h1>Demonstration Github</h1>
+	<input type="button" value="Se connecter" onclick="alert('Vous etes connectes');"/>
 	<p>Felicitations, le projet fonctionne !</p>
 	
 	<p>Du contenu avant le lien</p>
