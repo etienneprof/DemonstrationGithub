@@ -10,6 +10,6 @@
 	<h1>Demonstration Github</h1>
 	<p>Felicitations, le projet fonctionne !</p>
 	
-	<a href="#">Un lien vers nul part</a>
+	<a href="#">Un lien vers quelque part</a>
 </body>
 </html>
