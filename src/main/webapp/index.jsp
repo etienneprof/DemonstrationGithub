@@ -9,7 +9,5 @@
 <body>
 	<h1>Demonstration Github</h1>
 	<p>Felicitations, le projet fonctionne !</p>
-	
-	<a href="#">Un lien vers nul part</a>
 </body>
 </html>
